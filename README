@@ -1,0 +1,75 @@
+/******************************************************************************
+                   SAMMI 
+     MI-Score calculation of a multiple sequence alignment
+                   version 0.1
+
+*******************************************************************************/
+
+===============================================================================
+PRE-REQUISITES
+===============================================================================
+
+ 1. Perl version 5.8 or higher.
+ 2. Module Tie::IxHash.
+    
+       	Tie::IxHash is freely available from CPAN and can be installed
+       	with the following comands.
+	
+	perl -MCPAN -e shell 
+	cpan shell -- CPAN exploration and modules installation (v1.9800)
+	Enter 'h' for help.
+
+	cpan[1]> install Tie::IxHash
+
+ 3. The GNU Bourne Again shell (Bash) version 4.1 or higher.
+
+Download and install the above mentioned software according to their 
+instructions before compiling and running SAMMI.
+
+===============================================================================
+ALN_MI_CALC_EXE DOWNLOAD AND INSTALLATION
+===============================================================================
+
+tar -zxvf aln_mi_calc_for_distrib.tar.gz
+cd aln_mi_calc_for_distrib
+make
+make test
+make install
+
+This directory contains all the programs (Perl and C++ code) needed to calculate
+the MI-Score for a FASTA multiple sequence alignment (MSA). The code is brought 
+together by a Bash shell script called  "aln_miscore_wrapper.sh". Example input 
+and output files are included.
+
+================================================================================
+HOW TO RUN aln_miscore_wrapper.sh TO CALCULATE MI-Score 
+FOR AN INPUT MSA IN FASTA FORMAT. 
+================================================================================
+
+The usage is "aln_miscore_wrapper.sh [aln_file] [seq_identifier]"
+[aln_file]       refers to a FASTA format MSA file.
+[seq_identifier] is the sequence identifier of the first MSA sequence.
+
+The program outputs three files, named as follows:
+
+1. [aln_file].mi.out            
+   Contains the MI among column pairs for original MSA.
+
+2. [aln_file].mi.colshuffle.out 
+   Contains the MI among column pairs for column-shuffled MSA.
+
+3. [aln_file].midiff.out       
+   Contains MI difference values between original and column-shuffled MSA.
+
+Finally, the program prints the MI-Score (mean of top 5% of MI difference values) 
+to standard output.
+
+================================================================================
+TO RUN AN EXAMPLE FOR AN sh3 DOMAIN PROTEIN (pdb 1gfc:a), 
+ENTER THE FOLLOWING INTO THE COMMAND LINE:
+================================================================================
+bash ./aln_miscore_wrapper.sh 1GFC.A.sl.40.su.99.fl.30.ll.30.pu.50.out.aln 1GFC:A
+
+OUTPUT:
+MI-Score for 1GFC.A.sl.40.su.99.fl.30.ll.30.pu.50.out.aln is 0.111553
+

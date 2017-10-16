@@ -1,0 +1,252 @@
+>1GFC:A
+GSTYV-QAL--FDFDPQ-EDG-E--LGFRRG-DFIH-V--MD----N---------S-----D--P--N-
+----WW--KG----A--C-----H--G-----QT----GMFPRNY---V--------TPVNR
+>ref|XP_007072623.1|_5_54  0|   65|  2e-11|   40|   60|    7|   55|    5|   54
+-------AK--YDFKAT-ADD-E--LSFKRG-DVLK-V--LN----E---------EC----D--Q--N-
+----WY--KA----E--L-----N--G-----KD----GFIPKNY---I--------E----
+>ref|XP_012327510.1|_159_216  0|  112|  1e-28|   50|   69|    1|   58|  159|  216
+GACFA-QAQ--FDFLAQ-DPS-Q--LSFRRG-DIIE-V--LE----R---------P-----D--P--H-
+----WW--QG----R--S-----C--G-----RV----GYFPRSY---V--------QPVH-
+>ref|XP_001899435.1|_148_205  0|  111|  2e-28|   59|   74|    1|   58|  148|  205
+GTHLV-QAM--FDFKPQ-EEG-E--LGFKRG-DIIT-V--TN----R---------E-----D--E--N-
+----WW--EG----T--L-----N--G-----KS----GMFPATY---V--------CPFN-
+>pdb|2D0N|A_1_59  0|  106|  4e-28|   49|   73|    1|   59|    1|   59
+GSPWA-RAL--YDFEAL-EED-E--LGFRSG-EVVE-V--LD----S---------S-----N--P--S-
+----WW--TG----R--L-----H--N-----KL----GLFPANY---V--------APMMR
+>ref|XP_010605419.1|_212_274  0|  101|  2e-23|   44|   60|    2|   55|  212|  274
+-GRKV-RAI--YDFEAA-EDN-E--LTFKAG-EIIT-V--LD----DSKLFLFVHHS-----D--P--N-
+----WW--KG----E--T-----H--Q-----GI----GLFPSNF---V--------T----
+>ref|XP_008431850.1|_288_344  0|   95|  9e-22|   47|   63|    1|   57|  288|  344
+GEPSC-KAL--YDFVPE-NDG-E--LGFYEG-EIIT-L--VR----Q---------I-----D--E--N-
+----WF--EG----K--L-----R--G-----QT----GFFPNNY---V--------EVI--
+>gb|KNC97306.1|_520_579  0|   75|  7e-14|   43|   57|    2|   55|  520|  579
+-SKQV-KAL--YDFNAT-DEG-E--LSFRAG-DSIE-V--VD----TSGDF-----S-----D--E--A-
+----WW--EG----R--V-----ARTG-----QI----GQFPVVF---T--------Q----
+>emb|CCA71667.1|_156_211  0|   94|  2e-20|   50|   70|    2|   57|  156|  211
+-ATRV-RAL--HHFEPA-DAG-E--LAFEKG-DVIK-V--VD----R---------T-----H--K--D-
+----WW--KG----Q--L-----K--G-----RT----GIFPVNY---V--------EPM--
+>gb|KND98196.1|_219_276  0|   87|  1e-18|   43|   66|    3|   59|  219|  276
+--KKV-RAL--YDLISY-EPD-E--LSFKKG-DIIT-V--IE----S---------V-----Y--R--D-
+----WW--RG----T--MS----N--G-----KQ----GIFPLNY---V--------TPLVR
+>ref|XP_001181623.2|_189_244  0|   84|  4e-18|   48|   68|    2|   57|  189|  244
+-QQRL-QAL--YDFDPE-EEG-E--LCFRKG-DIIT-L--ID----K---------P-----T--K--D-
+----WW--RG----T--V-----D--G-----RT----GMLPAPY---V--------KVL--
+>ref|XP_013413935.1|_1220_1276  0|   87|  5e-18|   44|   63|    1|   57| 1220| 1276
+AADQV-VAL--YPYTAQ-NDD-E--LTFQKD-AIIN-V--IN----R---------D-----D--Q--D-
+----WW--KG----E--L-----N--G-----QE----GVFPANY---V--------QPV--
+>ref|XP_013413935.1|_927_978  0|   71|  3e-12|   42|   60|    2|   54|  927|  978
+-SLQA-QAL--YPWRAK-KDN-H--LTFNKG-DVIT-V--LE----Q---------Q-----D--M----
+----WW--SG----K--L-----H--G-----KI----GWFPKSY---V-------------
+>emb|CEI91105.1|_90_146  0|   83|  1e-17|   44|   56|    1|   57|   90|  146
+SEKYR-KAS--FDFNGQ-NDD-E--ISFKAG-DLIT-V--ID----E---------I-----D--K--G-
+----WW--VG----E--A-----H--G-----KR----GIFPVNY---T--------EEY--
+>gb|AFP57675.1|_180_236  0|   82|  2e-17|   40|   61|    3|   57|  180|  236
+--CCC-EAL--YDFNAE-TEE-E--LTFRRG-EKIT-L--LD----E---------I-----D--S--N-
+----WW--RG----EAAI-----T--G-----KR----GLFPAAY---V--------KKI--
+>gb|KFH66744.1|_347_409  0|   84|  2e-17|   41|   59|    4|   59|  347|  409
+---FA-RAL--YDFTPS-NAQQE--LAFRRG-DIIA-I--LS----R---------T-----D--P--MG
+GESLWW--RG----R--L-----RN-G-----EM----GLFPSNY---V--------EIINK
+>sp|Q6XJU9.1|OSTF1_MONAL_12_78  0|   80|  6e-17|   45|   58|    1|   58|   12|   78
+GQVKVFRAL--FTFDPR-TPD-E--LYFEEG-DILY-I--SD----T---------S-----D--T--N-
+----WW--KG----T--C-----R--G-----RT----GLIPSNY---VAEQAETIDHPMH-
+>ref|XP_003677197.1|_64_119  0|   80|  8e-17|   50|   73|    1|   56|   64|  119
+GNEFV-EAI--YPFEPQ-QQG-D--LALKPG-DKIE-V--IE----K---------P-----S--P--E-
+----WF--KG----R--C-----N--G-----QT----GMFPSNY---V--------KP---
+>gb|KND03631.1|_123_175  0|   80|  8e-17|   42|   66|    5|   57|  123|  175
+----V-LAI--ADFESE-EPG-D--LPFKSG-DVIQ-V--LG----D---------V-----D--E--N-
+----WY--RG----R--L-----R--A-----ME----GIFPKSF---V--------QPV--
+>ref|XP_008192212.1|_121_176  0|   83|  1e-16|   41|   68|    2|   57|  121|  176
+-QPYA-KAL--YDYEPK-EVG-D--LSFKRG-DVIL-L--RK----R---------I-----D--A--H-
+----WY--QG----E--C-----G--G-----KQ----GLFPLSY---V--------QII--
+>ref|XP_007230302.1|_727_785  0|   83|  2e-16|   47|   61|    1|   59|  727|  785
+GTVEV-QAL--FDFTPE-GPG-E--LALRTG-DVVT-N--VE----Q---------V-----D--S--E-
+----WY--LG----V--C-----R--G-----MT----GFFPINY---V--------KPMKQ
+>gb|KFH67111.1|_849_900  0|   69|  1e-11|   40|   65|    4|   55|  849|  900
+---RV-QAK--WDFTSK-DEG-D--LSFKAG-DTIN-V--IE----Y---------E-----N--D--D-
+----WW--RG----A--L-----G--D-----NV----GIFPSNR---V--------H----
+>ref|XP_007865722.1|_433_489  0|   82|  2e-16|   40|   51|    1|   57|  433|  489
+GRKMM-KAL--YDFTAS-SAD-E--LSFRAG-DVIT-V--QA----E---------V-----L--E--G-
+----WW--MG----E--L-----R--G-----RT----GLFPTTY---T--------EPL--
+>ref|XP_014470510.1|_847_905  0|   67|  4e-11|   41|   58|    1|   57|  847|  905
+GVTKY-RAL--YEFVAR-NQD-E--ISFQPG-DIIL-VPPVQ----N---------A-----E--P--G-
+----WM--AG----E--I-----R--G-----HT----GWFPESY---V--------EPV--
+>gb|KDQ24563.1|_60_116  0|   79|  3e-16|   42|   61|    1|   55|   60|  116
+SSFQA-RALWAYNENRQ-EPN-D--LTFRAG-DVIE-V--TE----E---------T-----N--A--D-
+----WW--KG----R--I-----N--G-----QE----GIFPSNY---V--------E----
+>ref|XP_014676212.1|_107_164  0|   78|  3e-16|   41|   64|    2|   57|  107|  164
+-APVV-RAV--SDFTGQ-MPC-D--LSFLRG-DLIN-L--LT----Q---------TQY---D--F--D-
+----WW--EG----E--L-----H--G-----RI----GIFPANY---V--------KPL--
+>ref|XP_009694632.1|_835_893  0|   81|  4e-16|   41|   58|    3|   58|  835|  893
+--CRV-RAL--YDCDAD-RED-E--LTFRTG-EIIV-V--SE----K---------E-----D--S--N-
+----WW--KG----W--I-----E--GQPH--RQ----GVFPASF---V--------HVLN-
+>gb|KRZ87602.1|_1042_1099  0|   82|  4e-16|   43|   62|    1|   56| 1042| 1099
+STQLV-RAQ--YDYTRQ-QDV-E--LTFKQG-DVIK-V--LE----K---------P-----D--G--D-
+----WW--LG----Q--CMS---S--G-----QM----GLFPATY---V--------VP---
+>gb|EFA85851.1|_347_407  0|   80|  7e-16|   41|   59|    2|   59|  347|  407
+-QKQV-KAL--YDYVGS-DAT-E--LDFYTG-DIIT-V--LD----E---------D-----E--S--G-
+----WW--KG----S--V-----D--G-----RE----GLFPSNYCDII--------TPSNQ
+>gb|KNC96962.1|_332_389  0|   80|  9e-16|   43|   55|    3|   57|  332|  389
+--KQV-RVL--FDFDAE-GPD-E--LTLRKG-DIIN-V--VC----E---------I-----D--E--G-
+----WW--EG----E--LSDG--S--G-----TV----GMFPSNY---V--------EVL--
+>pdb|2XMF|A_4_60  0|   74|  1e-15|   41|   59|    1|   57|    4|   60
+GSPQC-KAL--YAYDAQ-DTD-E--LSFNAN-DIID-I--I-----K---------E-----D--P--SG
+----WW--TG----R--L-----R--G-----KQ----GLFPNNY---V--------TKI--
+>ref|XP_004419540.1|_286_342  0|   79|  1e-15|   43|   66|    2|   59|  286|  342
+-TTYV--AL--YKFVPQ-ENE-D--LEMRPG-DMIT-L--LE----D---------S-----N--E--D-
+----WW--KG----K--I-----R--D-----RI----GFFPANF---V--------QRVQQ
+>ref|XP_011110030.1|_349_407  0|   78|  2e-15|   41|   61|    1|   57|  349|  407
+GANQA-VAL--YTFDAD-QPG-D--LGFKKG-EIIT-I--VK----R---------S-----D--SKND-
+----WW--TG----K--I-----G--D-----RT----GIFPSNY---V--------ESV--
+>ref|XP_012752882.1|_369_424  0|   77|  5e-15|   46|   64|    1|   55|  369|  424
+GYVRV-KAL--YAYQGE-NEG-D--LSFAEG-DIIN-V--MD----Q---------S-----D--P--AG
+----WW--QG----E--L-----N--G-----VT----GYFPMNF---V--------Q----
+>gb|KJZ76059.1|_11_68  0|   77|  1e-14|   43|   57|    1|   58|   11|   68
+GSMYV-RAL--YDYEAD-DRT-S--LSFHRG-DVIQ-V--IT----Q---------L-----E--S--G-
+----WW--DG----V--I-----N--G-----VR----GWFPSNY---C--------EVVN-
+>ref|NP_001086058.1|_468_520  0|   76|  1e-14|   42|   66|    3|   55|  468|  520
+--TYV-TAL--FDYEAS-QPE-D--LPFHKG-DVIK-I--LS----H---------V-----S--E--D-
+----WW--EG----E--C-----Q--G-----KV----GIFPRVF---V--------E----
+>ref|XP_012748190.1|_252_310  0|   74|  1e-14|   41|   63|    1|   59|  252|  310
+GKKLV-RAV--WDCISE-QEG-D--LEFYVG-DIIS-V--IS----K---------D-----E--G--G-
+----WW--MG----T--V-----H--G-----RT----GMFPANY---V--------EEMDQ
+>ref|XP_006630866.1|_2099_2153  0|   67|  5e-11|   42|   58|    6|   58| 2099| 2153
+------QAL--YSYVPQ-NED-E--LELREG-DVVN-V--ME----K---------C-----D--D--G-
+----WF--VG----T--S-----R--RTK---QF----GTFPGNY---V--------KPLH-
+>ref|XP_002112449.1|_233_287  0|   68|  2e-12|   40|   62|    5|   59|  233|  287
+----V-KAI--YDFDGQ-DST-E--LSFKEG-EYIT-V--IE----K---------V-----N--D--E-
+----WL--LG----E--I-----N--G-----QK----GQFPIAF---V--------KIFNR
+>ref|XP_006816462.1|_867_920  0|   76|  3e-14|   43|   61|    3|   56|  867|  920
+--TYV-EAL--WDHVTM-DED-E--LPFQAG-DVIE-V--TD----K---------L-----D--K--D-
+----WW--WG----R--I-----N--M-----KE----GWFPASF---V--------RP---
+>ref|XP_002632395.1|_1043_1099  0|   71|  2e-12|   42|   54|    2|   55| 1043| 1099
+-SVRA-TAL--YDYDAS-QTD-E--LTFKTG-DVIV-V--TD----R---------S-----E--A--E-
+----WW--SG-------------H--RAQEPTET----GLFPSNY---V--------E----
+>ref|XP_003740928.1|_649_699  0|   76|  3e-14|   43|   61|    8|   58|  649|  699
+--------L--YGFRSR-HQD-E--LDLKAG-DTIT-V--ID----T---------S-----D--P--D-
+----WW--QG----K--C-----M--G-----KV----GFFPSKY---V--------AKLH-
+>ref|XP_006626077.1|_278_336  0|   75|  4e-14|   41|   59|    1|   57|  278|  336
+GKXYC-KVL--FPFDST-NED-E--LSLKEG-DIIL-I--LN----K---------STG---E--P--G-
+----WW--KG----E--L-----H--G-----KE----GVFPDNF---V--------AVI--
+>ref|XP_004998516.1|_88_140  0|   74|  6e-14|   40|   68|    3|   55|   88|  140
+--PKA-KCM--FEHVPE-QDD-E--LHIKEG-DIVV-I--VD----D---------N-----D--P--D-
+----WW--KG----E--L-----N--G-----KV----GMFPSNF---V--------E----
+>ref|XP_003382848.1|_154_207  0|   72|  6e-14|   52|   61|    5|   56|  154|  207
+----V-IAK--FDFQPQ-EQG-E--LGLTKG-DEVV-V--LD----K---------S-----D--A--N-
+----WW--KG----R--N-----KRTN-----EE----GLFPVPY---V--------AV---
+>ref|XP_009012926.1|_1_57  0|   69|  7e-14|   40|   58|    5|   57|    1|   57
+----V-IAN--YDFRPT-DNE-E--LELKRG-DIIS-I--LE----K---------K-----D--P--N-
+----WW--MG----E--I-----V--R-----GTQVCRGLFPKTY---V--------SAY--
+>ref|XP_009304196.1|_123_177  0|   72|  7e-14|   42|   56|    3|   57|  123|  177
+--RHA-HAI--FDFTSN-HVT-H--LRFLRG-DVID-L--LD----C---------S-----D--A--Q-
+----CW--RG----R--C-----R--G-----RV----GIFPPEY---V--------QPI--
+>gb|ESA14187.1|_122_178  0|   71|  8e-14|   40|   58|    2|   57|  122|  178
+-TDFV-KVL--YDYESQ-SPE-E--LTIKEG-DVIQ-V--TN----KE--------V-----A--E--G-
+----WW--EG----I--L-----D--G-----IT----GQFPANY---V--------TPL--
+>gb|EGU13405.1|_603_657  0|   74|  8e-14|   44|   56|    1|   55|  603|  657
+GMGRV-VAL--YDFPGV-ETT-D--LPFKKG-DVIT-I--LA----K---------D-----D--E--E-
+----WW--KG----R--L-----K--L-----RE----GMLPRNY---V--------E----
+>ref|XP_006825179.1|_957_1012  0|   75|  9e-14|   43|   55|    3|   56|  957| 1012
+--RRV-VSL--YDYNQA-RSD-E--LNLLRG-DVIT-V--LH----Q---------D-----N--E--N-
+----WW--LG----E--LVK---N--G-----QQ----GYFPANY---V--------TP---
+>gb|EST07635.1|_443_503  0|   74|  9e-14|   43|   62|    4|   57|  443|  503
+---RV-IAL--YDFEAQ-EEG-D--LGFQKG-QVIA-V--TK----K---------T-----DSTD--D-
+----WW--QG----R--VEAGVSS--S-----KT----GIFPRNY---T--------APL--
+>ref|XP_013240943.1|_739_792  0|   74|  1e-13|   48|   57|    4|   55|  739|  792
+---YV-IAQ--FDFGGA-ERG-D--LTFKRG-DVIE-V--LR----RTA-------S-----R--E--D-
+----WW--DG----K--C-----R--G-----RL----GSFPANY---T--------E----
+>ref|XP_007671159.1|_487_539  0|   74|  1e-13|   40|   60|    3|   55|  487|  539
+--RPA-RAR--FDFKAQ-TLK-E--LPLQKG-DIVY-I--YK----Q---------I-----D--Q--N-
+----WY--EG----E--H-----H--G-----RV----GIFPRSY---V--------E----
+>ref|XP_011478259.1|_57_113  0|   74|  1e-13|   40|   58|    1|   57|   57|  113
+GQLMV-KAR--FNFKQN-NED-E--LSFNKG-EVIL-V--TR----Q---------E-----E--G--G-
+----WW--EG----S--L-----N--G-----KT----GWFPSNY---V--------REV--
+>gb|EUC63387.1|_22_81  0|   74|  2e-13|   43|   52|    2|   59|   22|   81
+-SEYV-IAL--HDFEPV-NGN-TTCLAFRAG-QLVH-V--LN----R---------D-----S--T--G-
+----WW--DG----E--L-----E--G-----RR----GWFPSNY---V--------KPTKR
+>ref|XP_004997115.1|_746_797  0|   74|  2e-13|   42|   52|    4|   54|  746|  797
+---YA-RAL--YDFAAT-SDS-E--LSFHAG-DTIE-I--LS----CE--------E-----D--D--P-
+----WW--SG----A--I-----G--E-----HE----GWFPASY---V-------------
+>ref|XP_011183976.1|_521_573  0|   72|  5e-13|   40|   60|    7|   59|  521|  573
+-------AL--YDYEAA-DDD-E--ISFDPD-DTIT-H--IE----M---------I-----D--E--G-
+----WW--RG----L--C-----K--N-----RY----GLFPANY---V--------QLVNQ
+>ref|XP_003667835.1|_399_456  0|   72|  5e-13|   43|   57|    1|   56|  399|  456
+GVETV-TAL--YDYQAQ-AAG-D--LSFPAG-AVIE-I--VE----RT--------S-----D--A--NE
+----WW--TG----K--Y-----N--G-----QQ----GVFPGNY---V--------QV---
+>emb|CDH48329.1|_347_404  0|   71|  5e-13|   40|   64|    2|   57|  347|  404
+-TSFV-IAL--YDLDAQ-QEG-D--LSIRKD-DRIE-V--LE----R---------T-----Q--DTMD-
+----WW--KG----R--I-----G--D-----RV----GMFPGNY---V--------QEI--
+>ref|XP_012272363.1|_26_77  0|   69|  6e-13|   44|   56|    5|   55|   26|   77
+----V-RAL--YSYKAQ-HSN-E--LSFEEG-ELLY-V--YD----R---------DR----D--S--N-
+----WW--KA----K--C-----G--N-----QE----GFVPVNY---V--------T----
+>gb|KFB36600.1|_130_184  0|   71|  6e-13|   40|   60|    5|   59|  130|  184
+----A-RAL--YNFQGQ-SIR-E--LSFRKG-DIIH-L--RR----Q---------I-----D--K--N-
+----WY--EG----E--H-----N--A-----NV----GLLPANY---I--------EILNR
+>ref|XP_002614089.1|_445_496  0|   72|  6e-13|   40|   56|    3|   54|  445|  496
+--RYA-RAL--YTYRPQ-EEN-E--LHLETD-DVIE-V--LE----G---------E-----D--G--G-
+----WC--LG----Y--L-----R--G-----RI----GLFPSNY---V-------------
+>ref|XP_004344046.1|_329_386  0|   71|  1e-12|   45|   64|    4|   59|  329|  386
+---YV-QAL--YDFVGSGSEG-D--LQFGKG-ALIR-V--LRA---D---------P-----D--Q--G-
+----WW--EG----E--T-----G--G-----RV----GLFPANF---V--------QPVSR
+>ref|XP_003747789.1|_934_991  0|   69|  1e-11|   40|   55|    4|   57|  934|  991
+---RV-KAV--FDFQGQ-QDD-E--LTFVID-EIII-V--TN----K---------E-----D--S--S-
+----WW--KGVKVSD--P-----T--K-----KE----GLFPSNY---V--------EAL--
+>gb|EUB61735.1|_325_375  0|   68|  8e-12|   41|   57|    7|   57|  325|  375
+-------AA--FDFNAS-QSD-E--LSFRAG-DTIV-N--ID----K---------F-----D--E--S-
+----WW--SG----C--I-----G--T-----RW----GIFPANH---V--------REI--
+>gb|KHN84844.1|_166_213  0|   69|  2e-12|   46|   58|    7|   54|  166|  213
+-------AL--YDFETQ-EEA-E--LCFRRG-QTLI-I--TD----R---------S-----D--E--N-
+----WW--QA----R--T-----A--H-----SK----GFIPACY---V-------------
+>ref|XP_013757824.1|_545_597  0|   71|  2e-12|   40|   51|    4|   55|  545|  597
+---RA-RAL--FNFTAQ-AAD-E--LAFYKG-DVIENV--LT----T---------D-----D--E--Q-
+----WW--FG----K--C-----G--R-----ND----GIFPAGF---V--------E----
+>ref|XP_011488368.1|_48_105  0|   71|  3e-12|   40|   53|    7|   59|   48|  105
+-------AV--FDYEAT-ADD-E--LSLRRG-DLVE-V--LS----K---------DSLVSGD--E--G-
+----WW--TG----M--I-----A--D-----RV----GIFPSNY---V--------SKGNR
+>ref|XP_011498975.1|_669_728  0|   70|  3e-12|   40|   52|    1|   56|  669|  728
+GREYC-IAL--YDYDAT-SYE-E--LTFMEG-DIII-V--LKKMPHD---------I-----D--D--G-
+----WW--EG----E--I-----N--G-----QQ----GLFPSLV---V--------EP---
+>ref|XP_008603702.1|_1078_1128  0|   71|  3e-12|   43|   63|    6|   55| 1078| 1128
+------RAK--FDFTGE-NDD-E--LSFRAG-EVVR-I--LD----K---------R-----P--G--D-
+----WW--FG----ET-C-----N--G-----QK----GIFPSDY---V--------E----
+>gb|KIM32787.1|_361_415  0|   66|  7e-11|   40|   55|    2|   54|  361|  415
+-TDRV-MAI--FSYNAT-NPE-E--LSFIEG-DCIT-V--VG----P---------S-----D--D--ST
+L---WW--YG----T--L-----K--G-----RV----GLFPYNY---V-------------
+>ref|XP_011618027.1|_828_886  0|   70|  3e-12|   40|   58|    1|   57|  828|  886
+GPRCV--AL--FDYEGE-EDD-E--LTFSQG-DVIA-L--QE----L---------V-----G--Q--E-
+----WG--RG----Q--I-----H--G-----RV----GIFPLNFAQVV--------EPL--
+>ref|XP_003722598.1|_276_327  0|   69|  3e-12|   40|   56|    5|   56|  276|  327
+----V-QAN--FSFTGR-QPH-E--LSCKVG-DIIQ-V--HR----R---------W-----N--D--G-
+----WW--EG----S--L-----R--G-----RR----GIFPSNY---T--------MP---
+>ref|XP_003869811.1|_535_591  0|   70|  4e-12|   42|   58|    1|   55|  535|  591
+GTVTA-TAE--YDYEKD-EDN-E--IGFEEG-DLIV-E--ID----F---------V-----D--E--D-
+----WW--SG----K--H-----SKTG-----EV----GLFPANY---V--------T----
+>ref|XP_011475167.1|_214_267  0|   68|  4e-12|   44|   59|    1|   54|  214|  267
+GSHYY-LAL--YRFKAI-EKD-D--LDFHPG-DRII-V--LD----D---------S-----N--E--E-
+----WW--RG----K--M-----G--E-----KT----GYFPTNY---I-------------
+>ref|XP_006677399.1|_330_385  0|   70|  4e-12|   45|   64|    2|   55|  330|  385
+-SKRV-VAI--YDYDPV-EEG-E--LAIREN-DILV-V--VD----D---------S-----D--P--D-
+----WWLVKH----T--T-----H--N-----KE----GLVPKTY---V--------E----
+>gb|KIH52531.1|_42_100  0|   66|  4e-12|   46|   59|    1|   57|   42|  100
+GGMSS-RAIVKFSYDPR-LED-E--LKLTRG-DTIS-V--ID----K---------S-----S--D--G-
+----WW--KG----E--S-----N--G-----RT----GWFPSNY---V--------EEV--
+>ref|XP_014153730.1|_7_59  0|   64|  5e-12|   40|   64|    3|   55|    7|   59
+--TFV-VAL--YEFKAE-SDR-E--LDLVKG-DKIE-L--LE----I---------L-----D--S--S-
+----WM--EG----R--L-----N--G-----KV----GVFPVGY---V--------T----
+>ref|XP_006456953.1|_4_61  0|   70|  5e-12|   40|   59|    4|   57|    4|   61
+---YV-YAL--HDFLPE-NDD-E--VTFKAG-ERVE-V--VE----K---------D-----D--A--YG
+DG--WW--QG----RN-L-----D--G-----KV----GLFPVSY---T--------TSV--
+>emb|CCA71661.1|_400_454  0|   70|  6e-12|   42|   62|    2|   54|  400|  454
+-TSRV-CAI--YDYKAQ-NEG-E--LTFARG-DVIT-V--IQ----P---------S-----E--E--ST
+F---WW--YG----A--T-----K--N-----DV----GIFPFNY---I-------------
+>ref|XP_009163124.1|_138_198  0|   69|  6e-12|   41|   57|    2|   58|  138|  198
+-TDRV-RVR--FDYDPK-QPD-E--LELQVD-DIIQ-V--MD----R---------SLP---D--D--G-
+----WW--KG----R--NLR---T--R-----KV----GVFPDNF---V--------APIN-
+>ref|XP_007493981.1|_131_186  0|   68|  7e-12|   43|   61|    5|   57|  131|  186
+----V-QAL--YPFSSS-NDE-E--LNFEKG-EIMD-V--IE----K---------PEN---D--P--E-
+----WW--KC----RK-I-----N--G-----QV----GLVPKNY---V--------TVM--
+>ref|XP_001899469.1|_518_572  0|   69|  7e-12|   40|   55|    3|   57|  518|  572
+--RRA-RAL--LDFRRQ-DED-E--LGFRKN-DIIT-V--IC----E---------K-----D--E--H-
+----CW--VG----E--V-----N--G-----LR----GWFPAKF---V--------EIV--
+>ref|XP_010700269.1|_712_769  0|   69|  7e-12|   41|   61|    1|   58|  712|  769
+GATF--QAL--FDYCAR-APD-E--LTFEAGQEIIC-I--SR----A---------P-----E--E--G-
+----WF--RG----V--C-----N--Q-----RT----GLFPINY---V--------QPVR-
